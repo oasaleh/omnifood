@@ -1,2 +1,6 @@
-This is the landing-page for a fictional food delivery company called Omnifood.  
-Click [here](https://captaincustard.github.io/omnifood/) to take a look!
+# Description
+Omnifood is a food delivery service. It operates in multiple cities. It prides
+itself in its wide selection of food to order from.
+
+## Demo
+Click [here](https://oasaleh.github.io/omnifood/) to take a look!
